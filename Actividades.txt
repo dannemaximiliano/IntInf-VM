@@ -1,0 +1,12 @@
+1) Porque un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+Los lenguajes solo pueden trabajar en ciertos sistemas porque los desarrolladores los hicieron asi.
+
+2) Que tipo de maquina virtual soporta virtualbox?
+VirtualBox emula una pc dentro de nuestra pc, donde podemos intalarle cualquier SO.
+
+3) Que funcion cumple el hypervisor en la virtualizacion?
+El hypervisor ayuda a que todas las maquinas virtuales compartan el mismo hardware sin que haya conflictos por su uso.
+
+4) Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? porque?
+No, las maquinas virtuales estan separadas, asi que los problemas en una no deberian tocar a las demas.
+
